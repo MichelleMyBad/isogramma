@@ -35,6 +35,6 @@ for(int j=i+1;j<word.Length;j++){
 }
 return true;
 ```
-Creiamo poi un <i>for</i> che si occupi di scorrere tutti i caratteri (dopo quello corrente) per assicurarsi che siano diversi. Tramite <i>if</i> controlliamo se il carattere corrente è una lettera e se è uguale ad uno deglia altri caratteri, in caso queste due condizioni si verifichino, vuol dire che sono stati trovati due caratteri uguali e che quindi la stringa non è un isogramma, per questo motivo ritorniamo <i>false</i> al programma; in caso invece questa condizione non si verifichi mai la funzione volge al termine e ritornerà <i>true</i> al programma. 
+Creiamo poi un <i>for</i> che si occupi di scorrere tutti i caratteri (dopo quello corrente) per assicurarsi che siano diversi. Tramite <i>if</i> controlliamo se il carattere corrente è una lettera e se è uguale ad uno deglia altri caratteri, in caso queste due condizioni si verifichino, vuol dire che sono stati trovati due caratteri uguali e che quindi la stringa non è un isogramma, per questo motivo ritorniamo <i>false</i> al programma; in caso invece questa condizione non si verifichi mai la funzione volge al termine, ritornando poi <i>true</i> al programma. 
 </details>
 
