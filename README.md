@@ -20,7 +20,7 @@ Per prima cosa andiamo a creare la funzione che si occuperà di controllare che 
 for(int i=0;i<word.Length-1;i++)
 {
 ```
-Questo for si occuperà si scorrere la stringa, dovrà proseguire finchè <b><i>i</i></b> sarà minore di <b><i>word.Length</i></b>-1 in quanto successivamente andremo a confrontare ogni carattere con tutti gli altri.
+Questo <i>for</i> si occuperà di scorrere la stringa: dovrà proseguire finchè <b><i>i</i></b> sarà minore di <b><i>word.Length</i></b>-1 in quanto successivamente andremo a confrontare ogni carattere con tutti gli altri.
 </details>
 
 <details>
