@@ -10,7 +10,7 @@
 public static bool Verifica(string word)
 {
 ```
-Per prima cosa andiamo a creare la funzione che si occuperà di controllare che la stringa sia o meno un isogramma, dandole la stringa come parametro.
+Per prima cosa andiamo a creare la funzione che si occuperà di controllare che la stringa sia o meno un isogramma, passandole la stringa come parametro.
 </details>
 
 <details>
